@@ -19,6 +19,8 @@ function App() {
     setSelectedDoc(newDoc)  // auto select uploaded doc!
   }
 
+  // some comments about the app structure and state management
+
   return (
     <div style={styles.container}>
       {/* Header */}
